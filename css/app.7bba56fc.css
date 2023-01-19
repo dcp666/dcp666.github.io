@@ -1,0 +1,122 @@
+.van-form[data-v-48ad7c59] {
+    margin-top: .4rem
+}
+
+.my-swipe .van-swipe-item[data-v-48ad7c59] {
+    color: #fff;
+    font-size: .53333rem;
+    line-height: 4rem;
+    text-align: center;
+    background-color: #1989fa
+}
+
+.van-swipe-item[data-v-48ad7c59] {
+    font-weight: 800;
+    text-shadow: 0 .13333rem .13333rem #000
+}
+
+html {
+    font-size: 2.66667rem !important
+}
+
+body {
+    background-color: #808fe9;
+    height: 100%;
+    overflow: hidden
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 17.06667rem;
+    min-width: 8.53333rem;
+    background-color: #f8f8f8;
+    height: 26.66667rem
+}
+
+.van-divider {
+    margin: .53333rem 1.33333rem
+}
+
+.van-cell .van-cell__value {
+    color: #1989fa
+}
+
+blockquote,
+body,
+dd,
+div,
+dl,
+dt,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+li,
+ol,
+p,
+pre,
+td,
+textarea,
+th,
+ul {
+    padding: 0;
+    margin: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset,
+img {
+    border: 0
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+    font-weight: 400;
+    font-style: normal
+}
+
+ol,
+ul {
+    list-style: none
+}
+
+caption,
+th {
+    text-align: left
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    font-size: 100%
+}
+
+q:after,
+q:before {
+    content: ""
+}
+
+abbr,
+acronym {
+    border: 0
+}
